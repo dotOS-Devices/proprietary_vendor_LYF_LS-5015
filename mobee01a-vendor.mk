@@ -744,8 +744,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libtime_genoff \
-    libloc_api_v02 \
-    libloc_ds_api \
     vendor.qti.hardware.fm@1.0 \
     qcrilmsgtunnel \
     TimeService \
